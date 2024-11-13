@@ -2,8 +2,9 @@
 
 My research covers topics related to the media, natural language processing, and their relation to financial markets. 
 
-I am 4th year Ph.D. student in Finance at the [Birkbeck College University London](https://www.bbk.ac.uk/), supervised by [David Schroder](https://scholar.google.com/citations?user=SRMIxvoAAAAJ&hl=fr). 
+I am a 4th year Ph.D. student in Finance at [Birkbeck College University London](https://www.bbk.ac.uk/), supervised by [David Schroder](https://scholar.google.com/citations?user=SRMIxvoAAAAJ&hl=fr). 
 
+[See my CV](https://www.dropbox.com/scl/fi/bqoqtvv9ho2eair741b6d/Ioanna_Lachana_CV.pdf?rlkey=o2jc0aygu7t3q8rdf2y42epis&st=wvxei25l&dl=0) for more information.
 
 ### Research
 
