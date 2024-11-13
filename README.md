@@ -15,13 +15,18 @@ I am a 4th year Ph.D. student in Finance at [Birkbeck College University London]
   
 - [Cross-asset linkages and media sentiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4636112)
 
-- [ACA-MEDIA: A new dataset of media coverage of academics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5014331)
+- [ACA-MEDIA: A new dataset of media coverage of academics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5014331), with [Fabrizio Core](https://sites.google.com/view/fabriziocore/) and Moqi Groen-Xu
+
+- Media coverage of female Economists, Business, and Finance scholars, with [Fabrizio Core](https://sites.google.com/view/fabriziocore/) and [Moqi Groen-Xu](https://moqixu.com/)
+
+- Advertising and the media coverage of universities, with [Fabrizio Core](https://sites.google.com/view/fabriziocore/) and [Moqi Groen-Xu](https://moqixu.com/)
   
 
 ### Teaching
-
-
-#### Teaching Assistance (Queen Mary Unversity London)
+#### Module Organiser (Queen Mary Unversity London)
+- Big Data Applications for Finance (ECN384)
+- 
+#### Teaching Associate (Queen Mary Unversity London)
 - Big Data and Machine Learning (ECOM189)
   
 - Introduction to Machine Learning (ECOM197)
@@ -32,7 +37,7 @@ I am a 4th year Ph.D. student in Finance at [Birkbeck College University London]
   
 - Blockchain Economics & Financial Market Innovation (ECOM215)
 
-#### Teaching Assistance (SOAS Unversity London)
+#### Teaching Assistant (SOAS Unversity London)
 - Financial Strategy
   
 - Quantitative Research Methods in Management
