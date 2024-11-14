@@ -25,7 +25,7 @@ I am a 4th year Ph.D. student in Finance at [Birkbeck College University London]
 ### Teaching
 #### Module Organiser (Queen Mary Unversity London)
 - Big Data Applications for Finance (ECN384)
-- 
+
 #### Teaching Associate (Queen Mary Unversity London)
 - Big Data and Machine Learning (ECOM189)
   
