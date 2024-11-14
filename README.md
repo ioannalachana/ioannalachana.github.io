@@ -15,7 +15,7 @@ I am a 4th year Ph.D. student in Finance at [Birkbeck College University London]
   
 - [Cross-asset linkages and media sentiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4636112)
 
-- [ACA-MEDIA: A new dataset of media coverage of academics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5014331), with [Fabrizio Core](https://sites.google.com/view/fabriziocore/) and Moqi Groen-Xu
+- [ACA-MEDIA: A new dataset of media coverage of academics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5014331), with [Fabrizio Core](https://sites.google.com/view/fabriziocore/) and [Moqi Groen-Xu](https://moqixu.com/)
 
 - Media coverage of female Economists, Business, and Finance scholars, with [Fabrizio Core](https://sites.google.com/view/fabriziocore/) and [Moqi Groen-Xu](https://moqixu.com/)
 
