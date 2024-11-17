@@ -16,7 +16,7 @@ My research covers topics related to the media, natural language processing, and
   
 - [Cross-asset linkages and media sentiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4636112), Job Market Paper
 
-- [ACA-MEDIA: A new dataset of media coverage of academics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5014331), with [Fabrizio Core](https://sites.google.com/view/fabriziocore/) and [Moqi Groen-Xu](https://moqixu.com/)
+- [ACA-MEDIA: A new dataset of media coverage of academics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5014331), with [Fabrizio Core](https://sites.google.com/view/fabriziocore/) and [Moqi Groen-Xu](https://moqixu.com/)\\
   Winner of the AFFECT/JFE Proposal Grant 2023
 
 - Media coverage of female Economists, Business, and Finance scholars, with [Fabrizio Core](https://sites.google.com/view/fabriziocore/) and [Moqi Groen-Xu](https://moqixu.com/)
