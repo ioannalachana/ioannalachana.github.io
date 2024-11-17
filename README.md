@@ -1,8 +1,9 @@
 ### About me
-
-My research covers topics related to the media, natural language processing, and their relation to financial markets. 
+Welcome to my page!
 
 I am a 4th year Ph.D. student in Finance at [Birkbeck College University London](https://www.bbk.ac.uk/), supervised by [David Schroder](https://scholar.google.com/citations?user=SRMIxvoAAAAJ&hl=fr). 
+
+My research covers topics related to the media, natural language processing, and their relation to financial markets. 
 
 [See my CV](https://www.dropbox.com/scl/fi/bqoqtvv9ho2eair741b6d/Ioanna_Lachana_CV.pdf?rlkey=o2jc0aygu7t3q8rdf2y42epis&st=wvxei25l&dl=0) for more information.
 
@@ -13,9 +14,10 @@ I am a 4th year Ph.D. student in Finance at [Birkbeck College University London]
 
 - [Investor Sentiment, Social Media and Stock Returns: Wisdom of Crowds or Power of Words?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4724928), with [David Schroder](https://scholar.google.com/citations?user=SRMIxvoAAAAJ&hl=fr) -- _R&R at JFM_
   
-- [Cross-asset linkages and media sentiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4636112)
+- [Cross-asset linkages and media sentiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4636112), Job Market Paper
 
 - [ACA-MEDIA: A new dataset of media coverage of academics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5014331), with [Fabrizio Core](https://sites.google.com/view/fabriziocore/) and [Moqi Groen-Xu](https://moqixu.com/)
+  Winner of the AFFECT/JFE Proposal Grant 2023
 
 - Media coverage of female Economists, Business, and Finance scholars, with [Fabrizio Core](https://sites.google.com/view/fabriziocore/) and [Moqi Groen-Xu](https://moqixu.com/)
 
